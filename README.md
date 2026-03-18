@@ -48,13 +48,6 @@ Done. The bookmarklet runs directly in-page.
 
 ---
 
-## Demo
-
-![LinkedIn+ Demo](docs/demo.gif)
-
-> Replace `docs/demo.gif` with your real recording once ready.
-
----
 
 ## Development
 
